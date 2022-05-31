@@ -14,7 +14,7 @@ int factorial(int n) {
 	return n * factorial(n - 1);
 }
 // Declation of a function, without the definition
-// It's mandatory to define all the functions before main() is defined
+// It's mandatory to declare all the functions before main() is defined
 // The 'void' denotes that this function will not return any value
 void isPrime(int);
 

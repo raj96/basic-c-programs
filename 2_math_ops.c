@@ -5,6 +5,9 @@
 	and
 	binary operators like & (and), | (or), ^ (xor), ~ (not)
 	there are operators like ++ and -- which are run below
+	Some more operators:
+	'<<': Left shift operator [int a = 2 << 1, this left shifts 2 by 1 bit and stores it in 'a']
+	'>>': Right shift operator [int a = 2 >> 1, this right shifts 2 by 1 bit and stores it in 'a']
 */
 
 int main() {
